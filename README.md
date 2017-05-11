@@ -14,6 +14,7 @@ a collection of smart values of dead and running storage devices
 ## Seagate
 |Drive family               | Drive types               | Capacity | Number of SMART reports |
 |---------------------------|---------------------------|----------|-------------------------|
+| Seagate Barracuda 7200.10 | ST3250310AS               | 250GB    | 3                       |
 | Seagate Barracuda 7200.11 | ST31500341AS              | 1.5TB    | 1                       |
 | Seagate Barracuda ES.2    | ST31000340NS              | 1TB      | 9                       |
 | Seagate Constellation ES  | ST1000NM0011              | 1TB      | 3                       |
