@@ -3,8 +3,9 @@ a collection of smart values of dead and running storage devices
 
 # Collected data
 
-##Drives Total by Vendor
-|Vendor         |Drives|
+## Drives Total by Vendor
+
+| Vendor        |Drives|
 |---------------|------|
 |Seagate        | 21   |
 |Hitachi/HGST   | 13   |
