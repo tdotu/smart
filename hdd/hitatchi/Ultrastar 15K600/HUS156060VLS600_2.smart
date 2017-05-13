@@ -1,0 +1,44 @@
+smartctl 6.5 2016-05-07 r4318 [i386-pc-solaris2.10] (local build)
+Copyright (C) 2002-16, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Vendor:               HITACHI
+Product:              HUS156060VLS600
+Revision:             A5D0
+Compliance:           SPC-4
+User Capacity:        600,127,266,816 bytes [600 GB]
+Logical block size:   512 bytes
+Rotation Rate:        15030 rpm
+Form Factor:          3.5 inches
+Device type:          disk
+Transport protocol:   SAS (SPL-3)
+Local Time is:        Fri May 12 21:03:18 2017 CEST
+SMART support is:     Available - device has SMART capability.
+SMART support is:     Enabled
+Temperature Warning:  Enabled
+
+=== START OF READ SMART DATA SECTION ===
+SMART Health Status: OK
+
+Current Drive Temperature:     41 C
+Drive Trip Temperature:        85 C
+
+Manufactured in week 32 of year 2012
+Specified cycle count over device lifetime:  50000
+Accumulated start-stop cycles:  21
+Elements in grown defect list: 0
+
+Vendor (Seagate) cache information
+  Blocks sent to initiator = 26916327545372672
+
+Error counter log:
+           Errors Corrected by           Total   Correction     Gigabytes    Total
+               ECC          rereads/    errors   algorithm      processed    uncorrected
+           fast | delayed   rewrites  corrected  invocations   [10^9 bytes]  errors
+read:          0  1384940         0   1384940       5600      40956.247           0
+write:         0  2967664         0   2967664          0      33167.203           0
+verify:        0        0         0         0      26917          0.000           0
+
+Non-medium error count:        1
+
+No self-tests have been logged
